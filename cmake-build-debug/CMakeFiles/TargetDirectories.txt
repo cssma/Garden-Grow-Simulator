@@ -1,0 +1,3 @@
+/Users/ciomar/Systemy/OWOCKI/cmake-build-debug/CMakeFiles/OWOCKI.dir
+/Users/ciomar/Systemy/OWOCKI/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/ciomar/Systemy/OWOCKI/cmake-build-debug/CMakeFiles/rebuild_cache.dir
